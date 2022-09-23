@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Application.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Application.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Application.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\refint\SongsPlayer.Application.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\ref\SongsPlayer.Application.dll

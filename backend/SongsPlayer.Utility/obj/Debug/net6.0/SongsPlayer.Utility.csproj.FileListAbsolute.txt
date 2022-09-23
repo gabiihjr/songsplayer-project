@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\bin\Debug\net6.0\SongsPlayer.Utility.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\bin\Debug\net6.0\SongsPlayer.Utility.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\bin\Debug\net6.0\SongsPlayer.Utility.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\refint\SongsPlayer.Utility.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\SongsPlayer.Utility.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Utility\obj\Debug\net6.0\ref\SongsPlayer.Utility.dll

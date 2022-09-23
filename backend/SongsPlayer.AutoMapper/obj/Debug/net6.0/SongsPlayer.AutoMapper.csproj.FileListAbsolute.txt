@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.AutoMapper.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.AutoMapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.AutoMapper.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\refint\SongsPlayer.AutoMapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\ref\SongsPlayer.AutoMapper.dll

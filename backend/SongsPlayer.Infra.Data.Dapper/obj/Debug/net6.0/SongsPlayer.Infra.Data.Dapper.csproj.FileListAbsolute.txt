@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\bin\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\bin\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\bin\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\refint\SongsPlayer.Infra.Data.Dapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\SongsPlayer.Infra.Data.Dapper.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data.Dapper\obj\Debug\net6.0\ref\SongsPlayer.Infra.Data.Dapper.dll
