@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\bin\Debug\net6.0\SongsPlayer.Infra.Data.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\bin\Debug\net6.0\SongsPlayer.Infra.Data.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\bin\Debug\net6.0\SongsPlayer.Infra.Data.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\refint\SongsPlayer.Infra.Data.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\SongsPlayer.Infra.Data.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infra.Data\obj\Debug\net6.0\ref\SongsPlayer.Infra.Data.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "th7HPqedV32jmf/FWA6rdEnEdg3oBE4sarVZPerPvY8=",
+  "Source": "SongsPlayer.WebApi",
+  "BasePath": "_content/SongsPlayer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

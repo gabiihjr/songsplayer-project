@@ -1,0 +1,12 @@
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\bin\Debug\net6.0\SongsPlayer.Infrastructure.IoC.deps.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\bin\Debug\net6.0\SongsPlayer.Infrastructure.IoC.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\bin\Debug\net6.0\SongsPlayer.Infrastructure.IoC.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.csproj.AssemblyReference.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\refint\SongsPlayer.Infrastructure.IoC.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\SongsPlayer.Infrastructure.IoC.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Infrastructure.IoC\obj\Debug\net6.0\ref\SongsPlayer.Infrastructure.IoC.dll
