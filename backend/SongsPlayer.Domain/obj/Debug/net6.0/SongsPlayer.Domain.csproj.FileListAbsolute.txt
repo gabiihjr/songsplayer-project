@@ -10,3 +10,5 @@ C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-proje
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Domain\obj\Debug\net6.0\refint\SongsPlayer.Domain.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Domain\obj\Debug\net6.0\SongsPlayer.Domain.pdb
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Domain\obj\Debug\net6.0\ref\SongsPlayer.Domain.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Domain\bin\Debug\net6.0\SongsPlayer.Domain.runtimeconfig.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Domain\obj\Debug\net6.0\SongsPlayer.Domain.genruntimeconfig.cache

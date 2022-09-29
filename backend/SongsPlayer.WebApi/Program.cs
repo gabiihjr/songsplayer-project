@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using SongsPlayer.Infra.Data.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
