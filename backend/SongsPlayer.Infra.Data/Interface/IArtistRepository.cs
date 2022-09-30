@@ -5,4 +5,6 @@ namespace SongsPlayer.Infra.Data.Interface;
 public interface IArtistRepository
 {
     Task<Artist> RegisterArtist(Artist artist);
+
+    Task<List<Artist>> GetArtists();
 }
