@@ -1027,6 +1027,25 @@
           }
         }
       },
+      "SongsPlayer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.2",
+          "Microsoft.Extensions.Identity.Stores": "6.0.2",
+          "MySql.EntityFrameworkCore": "6.0.4",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.2",
+          "SongsPlayer.Infra.Data": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.2.3"
+        },
+        "compile": {
+          "bin/placeholder/SongsPlayer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SongsPlayer.Application.dll": {}
+        }
+      },
       "SongsPlayer.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2695,6 +2714,11 @@
         "version.txt"
       ]
     },
+    "SongsPlayer.Application/1.0.0": {
+      "type": "project",
+      "path": "../SongsPlayer.Application/SongsPlayer.Application.csproj",
+      "msbuildProject": "../SongsPlayer.Application/SongsPlayer.Application.csproj"
+    },
     "SongsPlayer.Domain/1.0.0": {
       "type": "project",
       "path": "../SongsPlayer.Domain/SongsPlayer.Domain.csproj",
@@ -2715,6 +2739,7 @@
       "Microsoft.Extensions.Identity.Stores >= 6.0.2",
       "MySql.EntityFrameworkCore >= 6.0.4",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.2",
+      "SongsPlayer.Application >= 1.0.0",
       "SongsPlayer.Infra.Data >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2746,6 +2771,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj": {
+              "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj"
+            },
             "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj"
             }

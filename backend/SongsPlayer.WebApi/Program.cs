@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
+using SongsPlayer.Application.Interfaces;
+using SongsPlayer.Application.Services;
 using SongsPlayer.Infra.Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,8 @@ var app = builder.Build();
 
 builder.Services.AddIdentity<IdentityUser<int>, IdentityRole<int>>()
     .AddEntityFrameworkStores<UsersDbContext>();
+
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
