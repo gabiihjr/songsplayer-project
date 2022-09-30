@@ -2,7 +2,7 @@ using SongsPlayer.Domain.Models;
 
 namespace SongsPlayer.Application.Interfaces;
 
-public interface IUserService
+public interface ISongService
 {
-    Task CreateUser();
+    Song RegisterSong(Song song);
 }

@@ -3,10 +3,10 @@ using SongsPlayer.Domain.Models;
 
 namespace SongsPlayer.Application.Services;
 
-public class UserService : IUserService
+public class SongService : ISongService
 {
-    public async Task CreateUser()
+    public Song RegisterSong(Song song)
     {
-        
+        return song;
     }
 }

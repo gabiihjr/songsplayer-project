@@ -10,3 +10,10 @@ C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-proje
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\refint\SongsPlayer.Application.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.pdb
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\ref\SongsPlayer.Application.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Application.runtimeconfig.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Domain.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Infra.Data.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Infra.Data.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\bin\Debug\net6.0\SongsPlayer.Domain.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.csproj.CopyComplete
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.Application\obj\Debug\net6.0\SongsPlayer.Application.genruntimeconfig.cache
