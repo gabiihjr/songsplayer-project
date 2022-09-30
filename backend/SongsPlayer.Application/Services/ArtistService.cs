@@ -24,4 +24,11 @@ public class ArtistService : IArtistService
 
         return artist;
     }
+
+    public async Task<List<GetArtistDto>> GetArtists()
+    {
+        var artists = await _artistRepository.GetArtists();
+
+        return _mapper.Map<List<GetArtistDto>>(artists);
+    }
 }
