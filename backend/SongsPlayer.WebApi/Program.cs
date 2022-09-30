@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SongsPlayer.Infra.Data.Context;
 
@@ -11,6 +12,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+builder.Services.AddIdentity<IdentityUser<int>, IdentityRole<int>>()
+    .AddEntityFrameworkStores<UsersDbContext>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

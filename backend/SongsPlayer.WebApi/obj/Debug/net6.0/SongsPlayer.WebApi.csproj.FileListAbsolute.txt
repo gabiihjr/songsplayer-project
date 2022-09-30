@@ -57,3 +57,8 @@ C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-proje
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\SongsPlayer.Domain.pdb
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Npgsql.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
