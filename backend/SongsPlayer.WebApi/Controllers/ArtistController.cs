@@ -20,4 +20,10 @@ public class ArtistController : ControllerBase
   {
     return Ok(await _artistService.RegisterArtist(artist));
   }
+
+  [HttpGet(Name = "GetArtists")]
+  public async Task<ActionResult> GetArtists()
+  {
+    return Ok(await _artistService.GetArtists());
+  }
 }

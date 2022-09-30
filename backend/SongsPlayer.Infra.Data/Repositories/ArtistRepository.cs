@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using SongsPlayer.Domain.Models;
 using SongsPlayer.Infra.Data.Context;
 using SongsPlayer.Infra.Data.Interface;
@@ -18,5 +19,11 @@ public class ArtistRepository : IArtistRepository
         _context.Artists.Add(artist);
         await _context.SaveChangesAsync();
         return artist;
+    }
+
+    public async Task<List<Artist>> GetArtists()
+    {
+        return await _context.Artists
+            .ToListAsync();
     }
 }
