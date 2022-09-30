@@ -9,4 +9,6 @@ public class Album : Entity
     public List<Song> Songs { get; set; }
     
     public Artist Artist { get; set; }
+    
+    public int Year { get; set; }
 }

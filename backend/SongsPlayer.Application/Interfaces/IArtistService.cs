@@ -1,0 +1,9 @@
+
+using SongsPlayer.Domain.DTOs;
+
+namespace SongsPlayer.Application.Interfaces;
+
+public interface IArtistService
+{
+    Task<RegisterArtistDto>  RegisterArtist(RegisterArtistDto artist);
+}

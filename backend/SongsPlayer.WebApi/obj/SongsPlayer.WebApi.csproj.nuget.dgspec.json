@@ -4,6 +4,251 @@
     "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.WebApi\\SongsPlayer.WebApi.csproj": {}
   },
   "projects": {
+    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj",
+        "projectName": "SongsPlayer.Application",
+        "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj",
+        "packagesPath": "C:\\Users\\gabriela.hermenegil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabriela.hermenegil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\SongsPlayer.AutoMapper.csproj": {
+                "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\SongsPlayer.AutoMapper.csproj"
+              },
+              "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\SongsPlayer.AutoMapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\SongsPlayer.AutoMapper.csproj",
+        "projectName": "SongsPlayer.AutoMapper",
+        "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\SongsPlayer.AutoMapper.csproj",
+        "packagesPath": "C:\\Users\\gabriela.hermenegil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.AutoMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gabriela.hermenegil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Domain\\SongsPlayer.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Domain\\SongsPlayer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Domain\\SongsPlayer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -40,6 +285,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -52,7 +313,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -60,13 +321,21 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
-            "MySql.EntityFrameworkCore": {
+            "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -137,6 +406,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -149,7 +434,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -157,13 +442,21 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
-            "MySql.EntityFrameworkCore": {
+            "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -218,6 +511,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj": {
+                "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Application\\SongsPlayer.Application.csproj"
+              },
               "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj": {
                 "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Projetos-Estudos\\songsplayer-project\\backend\\SongsPlayer.Infra.Data\\SongsPlayer.Infra.Data.csproj"
               }
@@ -234,6 +530,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -246,7 +558,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -254,13 +566,21 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
-            "MySql.EntityFrameworkCore": {
+            "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

@@ -10,3 +10,8 @@ C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-proje
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\refint\SongsPlayer.AutoMapper.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.pdb
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\ref\SongsPlayer.AutoMapper.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.AutoMapper.runtimeconfig.json
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.Domain.dll
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\bin\Debug\net6.0\SongsPlayer.Domain.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.csproj.CopyComplete
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.AutoMapper\obj\Debug\net6.0\SongsPlayer.AutoMapper.genruntimeconfig.cache
