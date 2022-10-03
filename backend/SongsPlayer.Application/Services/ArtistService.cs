@@ -31,4 +31,11 @@ public class ArtistService : IArtistService
 
         return _mapper.Map<List<GetArtistDto>>(artists);
     }
+
+    public async Task<GetArtistDto> GetArtistByGuid(Guid artistGuid)
+    {
+        var artist = await _artistRepository.GetArtistByGuid(artistGuid);
+
+        return _mapper.Map<GetArtistDto>(artist);
+    }
 }

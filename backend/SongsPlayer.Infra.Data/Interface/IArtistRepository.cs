@@ -7,4 +7,6 @@ public interface IArtistRepository
     Task<Artist> RegisterArtist(Artist artist);
 
     Task<List<Artist>> GetArtists();
+
+    Task<Artist> GetArtistByGuid(Guid artistGuid);
 }
