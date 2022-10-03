@@ -8,4 +8,6 @@ public interface IArtistService
     Task<RegisterArtistDto>  RegisterArtist(RegisterArtistDto artist);
 
     Task<List<GetArtistDto>> GetArtists();
+
+    Task<GetArtistDto> GetArtistByGuid(Guid artistGuid);
 }

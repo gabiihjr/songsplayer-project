@@ -26,4 +26,15 @@ public class ArtistRepository : IArtistRepository
         return await _context.Artists
             .ToListAsync();
     }
+
+    public async Task<Artist> GetArtistByGuid(Guid artistGuid)
+    {
+        var artist = await _context.Artists
+            .Where(a => a.Guid == artistGuid)
+            .FirstOrDefaultAsync();
+
+        if (artist == default) throw new Exception("Esse artista não existe.");
+        
+        return artist;
+    }
 }
