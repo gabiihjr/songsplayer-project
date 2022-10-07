@@ -12,5 +12,6 @@ public class AutoMapperConfig : Profile
         CreateMap<Artist, GetArtistDto>().ReverseMap();
         CreateMap<RegisterArtistDto, Artist>().ReverseMap();
         CreateMap<Album, GetAlbumDto>().ReverseMap();
+        CreateMap<Album, RegisterAlbumDto>().ReverseMap();
     }
 }
