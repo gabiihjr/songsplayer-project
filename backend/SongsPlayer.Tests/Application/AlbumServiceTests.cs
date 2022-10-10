@@ -33,7 +33,7 @@ public class AlbumServiceTests : IDisposable
 
     [Fact]
 
-    public void TestingAlbumServiceCompleted()
+    public void TestingIfRegisterAlbumIsCompleted()
     {
         var fakeAlbum = RegisterAlbumFakes.RegisterAlbumDto.Generate();
 
@@ -112,6 +112,12 @@ public class AlbumServiceTests : IDisposable
         ).Result;
         
         Assert.NotNull(exception);
+    }
+
+    [Fact]
+    public void TestingIfGetAlbumsByArtistIsCompleted()
+    {
+        
     }
     
     public void Dispose()

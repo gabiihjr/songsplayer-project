@@ -20,4 +20,10 @@ public class AlbumController : ControllerBase
     {
         return Ok(await _albumService.RegisterAlbum(album));
     }
+
+    [HttpGet("[action]", Name = "GetAlbumsByArtist")]
+    public async Task<ActionResult> GetAlbumsByArtist(Guid artistGuid)
+    {
+        return Ok(await _albumService.GetAlbumsByArtist(artistGuid));
+    }
 }

@@ -33,4 +33,14 @@ public class AlbumRepository : IAlbumRepository
         await _context.SaveChangesAsync();
         return album;
     }
+
+    public async Task<List<Album>> GetAlbumsByArtist(Guid artistGuid)
+    {
+        var albums = await _context.Albums
+            .Include(ab => ab.Songs)
+            .Where(ab => ab.Artist.Guid == artistGuid)
+            .ToListAsync();
+
+        return albums;
+    }
 }
