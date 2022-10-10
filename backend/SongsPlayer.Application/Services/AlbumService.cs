@@ -33,4 +33,14 @@ public class AlbumService : IAlbumService
 
         return album;
     }
+
+    public async Task<List<GetAlbumDto>> GetAlbumsByArtist(Guid artistGuid)
+    {
+        var artist = await _artistService.GetArtistByGuid(artistGuid) ??
+                     throw new Exception("Artista não encontrado");
+
+        var albums = await _albumRepository.GetAlbumsByArtist(artistGuid);
+
+        return _mapper.Map<List<GetAlbumDto>>(albums);
+    }
 }
