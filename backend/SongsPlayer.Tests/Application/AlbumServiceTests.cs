@@ -80,7 +80,7 @@ public class AlbumServiceTests : IDisposable
     {
         var fakeAlbum = RegisterAlbumFakes.RegisterAlbumDto.Generate();
         fakeAlbum.Name = null;
-
+    
         var exception = Assert.ThrowsAsync<Exception>(
             () => _albumService.RegisterAlbum(fakeAlbum)
         ).Result;
@@ -93,7 +93,7 @@ public class AlbumServiceTests : IDisposable
     {
         var fakeAlbum = RegisterAlbumFakes.RegisterAlbumDto.Generate();
         fakeAlbum.Year = -1;
-
+    
         var exception = Assert.ThrowsAsync<Exception>(
             () => _albumService.RegisterAlbum(fakeAlbum)
         ).Result;
@@ -106,14 +106,14 @@ public class AlbumServiceTests : IDisposable
     {
         var fakeAlbum = RegisterAlbumFakes.RegisterAlbumDto.Generate();
         fakeAlbum.ArtistGuid = Guid.Empty;
-
+    
         var exception = Assert.ThrowsAsync<Exception>(
             () => _albumService.RegisterAlbum(fakeAlbum)
         ).Result;
         
         Assert.NotNull(exception);
     }
-
+    
     public void Dispose()
     {
         _albumRepository.ClearSubstitute();

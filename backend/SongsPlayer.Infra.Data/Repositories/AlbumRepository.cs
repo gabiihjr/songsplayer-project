@@ -17,7 +17,19 @@ public class AlbumRepository : IAlbumRepository
 
     public async Task<Album> RegisterAlbum(Album album, Guid artistGuid)
     {
-        _context.Albums.Add(album);
+        var artist = await _context.Artists
+            .Include(a => a.Albums)
+                .ThenInclude(ab => ab.Songs)
+            .Where(a => a.Guid == artistGuid)
+            .FirstOrDefaultAsync();
+        
+        if (artist == default) throw new Exception("Artista não encontrado");
+        
+        album.Artist.Guid = artist.Guid;
+        album.Artist.Name = artist.Name;
+
+        artist.Albums.Add(album);
+        _context.Artists.Update(artist);
         await _context.SaveChangesAsync();
         return album;
     }
