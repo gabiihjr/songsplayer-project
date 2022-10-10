@@ -52,3 +52,4 @@ C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-proje
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\AutoMapper.Contrib.Autofac.DependencyInjection.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\SongsPlayer.AutoMapper.dll
 C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\SongsPlayer.AutoMapper.pdb
+C:\Users\gabriela.hermenegil\Desktop\Gabriela\Projetos-Estudos\songsplayer-project\backend\SongsPlayer.WebApi\bin\Debug\net6.0\FluentValidator.dll
